@@ -1,0 +1,7 @@
+.
+├── data_preprocessing.py     # Log tokenization
+├── train_llm.py              # Model fine-tuning
+├── faiss_integration.py      # Vector database setup
+├── Dockerfile                # Containerization
+├── requirements.txt          # Dependencies
+└── README.md                 # Documentation
